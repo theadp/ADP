@@ -14,6 +14,7 @@ This Tool is For Educational Purpose
 ### Installation:
 ```
 git clone https://github.com/theadp/ADP.git
+cd ADP 
 unzip adp.zip
 cd adp
 bash requirements.sh
