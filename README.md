@@ -2,6 +2,7 @@
 ## Instagram: https://www.instagram.com/m_r._.hacker/ 
 ## Don't copy this code without giving me the credits  
 Thanks To Tuhinshubhra,htr-tech,Ha3MrX
+## Tool Is Designed For Kali Linux
 
 ## Included Tools
 1 Phishing Tools
@@ -18,7 +19,7 @@ cd adp
 bash requirements.sh
 bash adp.sh
 ```
-```
+ 
 
 
 
