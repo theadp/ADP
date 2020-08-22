@@ -4,9 +4,9 @@
 Thanks To Tuhinshubhra,htr-tech,Ha3MrX
 
 ## Included Tools
-# Phishing Tools
-# Ddos Attact
-# Information Gathering
+1 Phishing Tools
+2 Ddos Attact
+3 Information Gathering
 ## Disclaimer:
 This Tool is For Educational Purpose
 
